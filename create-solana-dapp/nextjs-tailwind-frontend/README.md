@@ -16,7 +16,7 @@ yarn create solana-dapp --template gh:solana-developers/solana-templates/templat
 
 ### Prerequisites
 
-- Node v18.18.0 or higher
+- Node v18.18.0 or higher 
 
 ### Manual installation
 
